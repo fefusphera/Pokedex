@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <img
-        className="title"
-        src="https://archives.bulbagarden.net/media/upload/archive/4/4b/20100413180610%21Pok%C3%A9dex_logo.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1280px-International_Pok%C3%A9mon_logo.svg.png"
         alt=""
+        className="title"
       />
       <PokemonList />
     </div>
